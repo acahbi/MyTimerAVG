@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyTimerAVG</string>
+    <string name="strStart">Старт</string>
+    <string name="strInstruction">Инструкция</string>
+    <string name="strClear">Очистить</string>
+    <string name="strCurTime">Текущее время</string>
+    <string name="strAVGTime">Среднее время</string>
+    <string name="strInstrInstruction">Инструкция пользователя</string>
+    <string name="strPop">Попытки</string>
+    <string name="strStop">Стоп</string>
+    <string name="strTextInstruction">На данном экране Вам будет кратко описана работа приложения. Кнопка «Старт/Стоп» отвечает за запуск и остановку секундомера, а также расчет среднего значения. Кнопка «Очистить» служит для полной очистки информации о выполненных попытках запуска секундомера.</string>
+</resources>
